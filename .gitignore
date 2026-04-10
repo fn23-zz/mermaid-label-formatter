@@ -1,0 +1,11 @@
+# Build output
+out/
+
+# VS Code settings
+.vscode/
+
+# Dependencies
+node_modules/
+
+# Source maps
+*.map
